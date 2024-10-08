@@ -14,5 +14,9 @@ body{
 footer{
 position: fixed;
 bottom: 0;
-<p>Desnvolvido pelos alunos João Pedro Batista e Lucas Gasparim</p>
+background-color: var(--preto);
+color: var(--branco);
+
+width: 100;
+text-align: center;
 }

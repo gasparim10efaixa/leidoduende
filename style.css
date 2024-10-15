@@ -68,3 +68,7 @@ text-align: center;
     color: var(--destaque);
     font-weight: 700;
 }
+
+.cartao:hover .cartao{
+    transform: rotateY('angle');
+}

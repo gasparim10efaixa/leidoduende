@@ -69,6 +69,6 @@ text-align: center;
     font-weight: 700;
 }
 
-.cartao:hover .cartao{
+.cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
 }

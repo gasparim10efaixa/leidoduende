@@ -40,6 +40,8 @@ text-align: center;
     text-align: center;
     height: 100%;
     color: var(--preto);
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3{

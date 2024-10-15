@@ -95,8 +95,3 @@ criaCartao(
     'Como se fala mesa em inglês',
     'Desk/Table'
 )
-criaCartao(
-    'Inglês',
-    'Como se diz professor em inglês?',
-    'Teacher'
-)

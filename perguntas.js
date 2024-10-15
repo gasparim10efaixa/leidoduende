@@ -95,3 +95,8 @@ criaCartao(
     'Como se fala mesa em inglês',
     'Desk/Table'
 )
+criaCartao(
+    'Inglês',
+    'como se fala profesor em inglês',
+    'teacher'
+)

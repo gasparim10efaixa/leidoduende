@@ -75,7 +75,7 @@ text-align: center;
     border: 2px solid var(--preto);
 }
 
-.cartao:hover .conteudo-cartao{
+.cartao:active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 

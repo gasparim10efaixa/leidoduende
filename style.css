@@ -2,7 +2,7 @@
     --fundo:#057ae8;
     --cartao-frente:#909090;
     --cartao-verso:#505050;
-    --destaque:#990099;
+    --destaque:#ffa600;
     --preto:#000000;
     --branco:#FFFFFF;
 }
@@ -72,7 +72,7 @@ text-align: center;
     font-weight: 700;
     transform: rotateY(180deg);
     background-color: var(--cartao-verso);
-    border: 2px solid var(--destaque);
+    border: 2px solid var(--preto);
 }
 
 .cartao:hover .conteudo-cartao{

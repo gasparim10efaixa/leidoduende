@@ -39,3 +39,8 @@ text-align: center;
     background-color: var(--cartao-frente);
     color: var(--branco);
 }
+
+.resposta-cartao{
+    padding: 40px;
+    background-color: var(--cartao-verso);
+}

@@ -45,3 +45,7 @@ text-align: center;
     padding: 40px;
     background-color: var(--cartao-verso);
 }
+
+.conteudo-cartao:hover{
+    transform: scale(0.4);
+}

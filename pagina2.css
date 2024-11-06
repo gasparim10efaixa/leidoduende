@@ -33,3 +33,9 @@ text-align: center;
     padding: 10px;
     gap: 4rem; 
 }
+
+.conteudo-cartao{
+    padding: 40px;
+    background-color: var(--cartao-frente);
+    color: var(--branco);
+}
